@@ -14,7 +14,7 @@ body {
 }
 
 .box-login {
-	height: 500px;
+	height: 530px;
 	width: 500px;
 	background-color: cadetblue;
 	border: 0;
@@ -58,7 +58,7 @@ form .btn-login {
 	background-color: crimson;
 	color: white;
 	border: 0;
-	margin: 8px 20px;
+	margin: 25px 20px 10px 20px;
 	border-radius: 10px;
 	font-size: 1.2rem;
 	transition: 0.5s;
